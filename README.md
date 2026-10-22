@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About Me
 
-> **하드웨어의 저수준 제어(MCU)부터 리눅스 커널 디바이스 드라이버, 온디바이스(Edge AI) 비전 파이프라인까지 End-to-End 시스템을 설계하고 최적화하는 임베디드 시스템 소프트웨어 엔지니어입니다.**
+> **하드웨어 저수준 제어(MCU/Robotics)부터 리눅스 커널 디바이스 드라이버, 온디바이스(Edge AI) 비전 파이프라인, 고성능 소프트웨어 아키텍처까지 End-to-End 시스템을 설계하고 최적화하는 엔지니어입니다.**
 
-- 🐧 **Embedded Linux & Kernel Device Driver**: Linux Kernel 5.15 기반의 VFS, PWM/GPIO 서브시스템 연동 캐릭터 디바이스 드라이버 설계, IOCTL 통신 및 쿼드러처 엔코더 FSM 디텐트 탈출 알고리즘 구현
-- ⚡ **Microcontroller & Hardware Control**: ARM Cortex-M4(STM32F411RE) 및 AVR(ATmega128) 저수준 레지스터 제어, EXTI/Timer 인터럽트 기반 정밀 PWM 모터 제어 및 유한 상태 머신(FSM) 아키텍처 설계
-- 🧠 **On-Device Edge AI & Computer Vision**: NVIDIA Jetson Orin Nano 환경에서 YOLO 비전 검사 연동, `v4l2-ctl` 하드웨어 카메라 튜닝 및 `QThread` 멀티스레딩 비동기 파이프라인 구축
-- 🖥️ **Embedded Application & GUI**: C++/Qt 및 Python/PyQt5를 활용한 전장/스마트 팩토리 실시간 모니터링 시스템 개발 및 UART/TCP-IP 통신 프로토콜 설계
-- 🎮 **Game Client & Engine Architecture**: Unity(C#) 기반의 FSM 적/보스 AI 패턴 아키텍처 설계, 오브젝트 풀링(Object Pooling) 및 Sprite Atlas 통합을 통한 GC 스파이크 방지 및 런타임 렌더링 성능 최적화
+- 🐧 **Embedded Linux & Kernel Device Driver** : NVIDIA Jetson Orin Nano 기반 리눅스 커널 5.15 캐릭터 디바이스 드라이버 설계, VFS/IOCTL 인터페이스 구현 및 쿼드러처 엔코더 FSM 디텐트 언래치·채터링 차단 알고리즘 개발
+- 🧠 **On-Device Edge AI & Smart Factory** : Jetson Orin Nano와 STM32F411RE를 연동한 공정 자동화 시스템 구축, YOLO 비전 판정 연동, Linux `v4l2-ctl` 하드웨어 카메라 튜닝 및 `QThread` 비동기 파이프라인 개발
+- 🚗 **Embedded Automotive & Qt Monitoring** : C++/Qt 기반 전장 대시보드와 ARM Cortex-M4 간 실시간 UART 패킷 통신 프로토콜 설계 및 DC/서보 모터 구동·조향·온습도 센서 통합 원격 제어 시스템 구현
+- ⚡ **Autonomous Robotics & Microcontroller** : ATmega128 저수준 레지스터 제어, 초음파/적외선 센서 기반 실시간 장애물 회피 자율주행 알고리즘 및 타이머 인터럽트 PWM 모터 제어 FSM 설계
+- 🎮 **Game Client & Engine Architecture** : Unity(C#) 환경에서 FSM 기반 적/보스 AI 패턴 아키텍처 설계, 오브젝트 풀링(Object Pooling) 및 Sprite Atlas 최적화를 통한 GC 스파이크 방지 및 런타임 렌더링 성능 최적화
 
 ---
 
