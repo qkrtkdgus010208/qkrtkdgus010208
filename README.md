@@ -26,6 +26,7 @@
 - ⚡ **Microcontroller & Hardware Control**: ARM Cortex-M4(STM32F411RE) 및 AVR(ATmega128) 저수준 레지스터 제어, EXTI/Timer 인터럽트 기반 정밀 PWM 모터 제어 및 유한 상태 머신(FSM) 아키텍처 설계
 - 🧠 **On-Device Edge AI & Computer Vision**: NVIDIA Jetson Orin Nano 환경에서 YOLO 비전 검사 연동, `v4l2-ctl` 하드웨어 카메라 튜닝 및 `QThread` 멀티스레딩 비동기 파이프라인 구축
 - 🖥️ **Embedded Application & GUI**: C++/Qt 및 Python/PyQt5를 활용한 전장/스마트 팩토리 실시간 모니터링 시스템 개발 및 UART/TCP-IP 통신 프로토콜 설계
+- 🎮 **Game Client & Engine Architecture**: Unity(C#) 기반의 FSM 적/보스 AI 패턴 아키텍처 설계, 오브젝트 풀링(Object Pooling) 및 Sprite Atlas 통합을 통한 GC 스파이크 방지 및 런타임 렌더링 성능 최적화
 
 ---
 
