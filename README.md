@@ -10,8 +10,9 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/qkrtkdgus010208)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:qkrtkdgus010208@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:psh01020808@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-EA532C?style=flat-square&logo=tistory&logoColor=white)](https://psh010208.tistory.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UC9Oso3IW6Ag73bZ2ThVU7Cw?si=d00qh5jbeVndpInT)
 
 </div>
 
@@ -118,6 +119,12 @@
 </a>
 <a href="https://github.com/qkrtkdgus010208">
   <img src="https://img.shields.io/badge/GitHub-qkrtkdgus010208-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://psh010208.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-psh010208.tistory.com-EA532C?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
+</a>
+<a href="https://youtube.com/channel/UC9Oso3IW6Ag73bZ2ThVU7Cw?si=d00qh5jbeVndpInT">
+  <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
 <br/><br/>
